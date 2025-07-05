@@ -1,0 +1,52 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2658,
+    "time": 1751724805,
+    "hash": "512a1eca462b8cd410a03f76f5e626e42af758cc"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1734619454,
+    "hash": "fe58d4fa0101f018147f505f73b0a5f9622d905d"
+  },
+  "README.md": {
+    "size": 12180,
+    "time": 1736239053,
+    "hash": "a4806cc087656c326ca7d8019f3aa4c1fd2f9b7d"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737898586,
+    "hash": "da6474d7940ff4f957633399693a2ae01cf4c4c0"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737898586,
+    "hash": "da6474d7940ff4f957633399693a2ae01cf4c4c0"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737898586,
+    "hash": "da6474d7940ff4f957633399693a2ae01cf4c4c0"
+  },
+  "notes/2024_高等电路电子学个人笔记_zhuqi_000.pdf": {
+    "size": 16626123,
+    "time": 1741053976,
+    "hash": "9bfb06712610fed50d9a23778dfc9e4bfff4af55"
+  },
+  "notes/2024秋高等电路与电子分析知识整理_Gaster.pdf": {
+    "size": 7058933,
+    "time": 1737898586,
+    "hash": "da6474d7940ff4f957633399693a2ae01cf4c4c0"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737898586,
+    "hash": "da6474d7940ff4f957633399693a2ae01cf4c4c0"
+  },
+  "tag.txt": {
+    "size": 80,
+    "time": 1734683796,
+    "hash": "bbefe0a26b8fa6d187c030d4e811886373b865ef"
+  }
+}
