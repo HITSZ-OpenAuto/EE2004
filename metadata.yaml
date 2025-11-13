@@ -1,0 +1,64 @@
+ID: "EE2004"
+SimilarID: []
+Name: "高等电路与电子分析"
+CourseProperty:
+  - Major:
+      - Year: "2024_2025"
+        Name: ["工科试验班（自动化与电气工程）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE2004"
+    CourseName: "高等电路与电子分析"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: "2025秋，该课程与《理论力学II》二选一"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: 20
+      - Name: "期末考试"
+        Percentage: 80
+    CourseHourComposition:
+      - Name: "电路"
+        Hour: 32
+      - Name: "模电"
+        Hour: 16
+      - Name: "数电"
+        Hour: 16
+  - Major:
+      - Year: "2025_2026"
+        Name: ["工科试验班（机器人与智能装备）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大二"
+        Semester: "秋"
+    CourseType: "限选"
+    CourseID: "EE2004"
+    CourseName: "高等电路与电子分析"
+    Credit: "4.0"
+    CourseHour: "64.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: "2025秋，该课程与《理论力学II》二选一"
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: 20
+      - Name: "期末考试"
+        Percentage: 80
+    CourseHourComposition:
+      - Name: "电路"
+        Hour: 32
+      - Name: "模电"
+        Hour: 16
+      - Name: "数电"
+        Hour: 16
