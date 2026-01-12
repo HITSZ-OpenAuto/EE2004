@@ -1,0 +1,102 @@
+# 歧义/问题：授课教师信息是按班级和课程部分（电路/模电/数电）组织的，无法直接映射到单个教师的评价结构中。已将所有教师姓名单独列出，并将详细的授课安排表格放入 misc 字段。
+# 歧义/问题：学时安排部分包含非常详细的表格，无法优雅地放入 schedule 字段的简单文本列表中。已将总体学时安排放入 schedule，详细表格内容摘要放入 misc 字段。
+course_name: "高等电路与电子分析"
+course_code: ""
+notices: |
+  2025 秋，该课程与《理论力学II》二选一。
+grading:
+  2024: "作业(20%) + 期末考试(80%)"
+teachers:
+  - name: "王灿"
+    reviews: []
+  - name: "赵飞"
+    reviews: []
+  - name: "潘学伟"
+    reviews: []
+  - name: "喻锦程"
+    reviews: []
+  - name: "王毅"
+    reviews: []
+  - name: "谷雨"
+    reviews: []
+  - name: "梁亮"
+    reviews: []
+  - name: "孙丽"
+    reviews: []
+  - name: "王立欣"
+    reviews: []
+textbooks: []
+online_resources: []
+about_course:
+  - content: |
+      2024 年秋季学期自动化与电气工程集群开设的缝合课程。该课程补充讲授了《电路与电子学》课程未讲授的部分内容。该课程没有实验。
+    submitter:
+      name: ""
+      link: ""
+about_exam:
+  - content: |
+      2024 年秋季学期的期末考试题型为 8 题填空 + 8 题计算，其中填空题和计算题均为 4 题电路 + 2 题模电 + 2题数电。和电路与电子学一样，电路部分计算量较大，模电和数电部分基本是课后题改编和概念性问答。
+    submitter:
+      name: "Gaster"
+      link: "https://github.com/WDGaster703"
+study_advice: []
+schedule:
+  - content: "2024 年秋季学期学时安排：总学时 64 (电路 32 + 模电 16 + 数电 16)。"
+    submitter:
+      name: ""
+      link: ""
+related_links:
+  - content: "电路IA: https://hoa.moe/docs/fresh-spring/ee1011a/"
+    submitter:
+      name: ""
+      link: ""
+  - content: "电路IB: https://hoa.moe/docs/sophomore-autumn/ee1011b/"
+    submitter:
+      name: ""
+      link: ""
+  - content: "模拟电子技术基础: https://hoa.moe/docs/sophomore-spring/ee1007/"
+    submitter:
+      name: ""
+      link: ""
+  - content: "数字电子技术基础: https://hoa.moe/docs/sophomore-spring/ee1009/"
+    submitter:
+      name: ""
+      link: ""
+misc:
+  - content: |
+      2024 年秋季学期授课安排：
+      - 1-3班: 电路(王灿、赵飞), 模电(潘学伟), 数电(喻锦程)
+      - 4-5班: 电路(王毅), 模电(谷雨), 数电(梁亮)
+      - 6-8班: 电路(孙丽、赵飞), 模电(王立欣), 数电(王立欣)
+      - 9-10班: 电路(王毅), 模电(谷雨), 数电(梁亮)
+    submitter:
+      name: ""
+      link: ""
+  - content: |
+      详细学时安排 - 电路部分 (32学时):
+      - 三相交流电路 (6学时)
+      - 非正弦交流电路 (2学时)
+      - 频率特性和谐振现象 (2学时)
+      - 线性电路的暂态分析 (14学时)
+      - 二端口网络 (3学时)
+      - 均匀传输线 (5学时)
+    submitter:
+      name: ""
+      link: ""
+  - content: |
+      详细学时安排 - 模电部分 (16学时):
+      - 运算放大器的基本应用电路 (6学时)
+      - 集成运算放大电路 (6学时)
+      - 直流电源 (4学时)
+    submitter:
+      name: ""
+      link: ""
+  - content: |
+      详细学时安排 - 数电部分 (16学时):
+      - 门电路 (6学时)
+      - 脉冲波形的产生和整形电路 (6学时)
+      - 加法器 (2学时)
+      - 存储器 (2学时)
+    submitter:
+      name: ""
+      link: ""
