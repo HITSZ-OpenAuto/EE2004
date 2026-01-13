@@ -1,0 +1,121 @@
+course_name = "高等电路与电子分析"
+course_code = "EE2004"
+
+notices = """
+2025 秋，该课程与《理论力学II》二选一。
+"""
+
+[[lecturers]]
+name = "王灿"
+  [[lecturers.reviews]]
+  content = "2024年秋季学期，为1-3班讲授电路部分。"
+  author = { name = "", link = "", date = "" }
+
+[[lecturers]]
+name = "赵飞"
+  [[lecturers.reviews]]
+  content = "2024年秋季学期，为1-3班和6-8班讲授电路部分。"
+  author = { name = "", link = "", date = "" }
+
+[[lecturers]]
+name = "潘学伟"
+  [[lecturers.reviews]]
+  content = "2024年秋季学期，为1-3班讲授模电部分。"
+  author = { name = "", link = "", date = "" }
+
+[[lecturers]]
+name = "喻锦程"
+  [[lecturers.reviews]]
+  content = "2024年秋季学期，为1-3班讲授数电部分。"
+  author = { name = "", link = "", date = "" }
+
+[[lecturers]]
+name = "王毅"
+  [[lecturers.reviews]]
+  content = "2024年秋季学期，为4-5班和9-10班讲授电路部分。"
+  author = { name = "", link = "", date = "" }
+
+[[lecturers]]
+name = "谷雨"
+  [[lecturers.reviews]]
+  content = "2024年秋季学期，为4-5班和9-10班讲授模电部分。"
+  author = { name = "", link = "", date = "" }
+
+[[lecturers]]
+name = "梁亮"
+  [[lecturers.reviews]]
+  content = "2024年秋季学期，为4-5班和9-10班讲授数电部分。"
+  author = { name = "", link = "", date = "" }
+
+[[lecturers]]
+name = "孙丽"
+  [[lecturers.reviews]]
+  content = "2024年秋季学期，为6-8班讲授电路部分。"
+  author = { name = "", link = "", date = "" }
+
+[[lecturers]]
+name = "王立欣"
+  [[lecturers.reviews]]
+  content = "2024年秋季学期，为6-8班讲授模电部分和数电部分。"
+  author = { name = "", link = "", date = "" }
+
+textbooks = []
+
+online_resources = []
+
+[[course]]
+content = """
+2024 年秋季学期自动化与电气工程集群开设的缝合课程。该课程补充讲授了《电路与电子学》课程未讲授的部分内容。该课程没有实验。
+"""
+author = { name = "", link = "", date = "" }
+
+[[exam]]
+content = """
+2024 年秋季学期的期末考试题型为 8 题填空 + 8 题计算，其中填空题和计算题均为 4 题电路 + 2 题模电 + 2题数电。和电路与电子学一样，电路部分计算量较大，模电和数电部分基本是课后题改编和概念性问答。
+"""
+author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-01-01" }
+
+lab = []
+
+advice = []
+
+[[schedule]]
+content = """
+# 电路部分 (32学时)
+- 三相交流电路（6学时）: 三相电路星形联结和三角形联结，对称、不对称三相电路的计算；三相电路的功率及测量
+- 非正弦交流电路（2学时）: 非正弦周期电流电路的计算
+- 频率特性和谐振现象（2学时）: 频率特性；电路谐振及其计算
+- 线性电路的暂态分析（14学时）: 电路量的初始值；一阶电路的零输入响应；阶跃函数和冲激函数，一阶电路的阶跃响应，冲激响应和正弦电源作用下的响应；一阶电路的全响应，一阶电路暂态响应的一般形式；二阶电路的暂态过程；状态变量分析；复频域中的电路定律与电路模型，线性动态电路暂态过程的复频域分析法
+- 二端口网络（3学时）: 二端口网络方程
+- 均匀传输线（5学时）: 均匀传输线模型的建立；均匀传输线的正弦稳态解；无损耗线和驻波的形成；无损线的零状态响应
+
+# 模电部分 (16学时)
+- 第一章：运算放大器的基本应用电路（6学时）: 共射基本放大电路的组成及工作原理；基本放大电路的分析方法；共射基本放大电路和共集基本放大电路
+- 集成运算放大电路（6学时）: 集成运算放大器概述；多级放大电路；差分放大电路；集成运算放大器中的电流源；互补功率放大电路
+- 直流电源（4学时）: 直流电源的组成；整流电路；滤波电路；串联型稳压电路
+
+# 数电部分 (16学时)
+- 门电路（6学时）: 二极管门电路与 CMOS 门电路基本特性；CMOS 门电路动态特性与典型电路类别；TTL 门电路结构、特性与典型类别
+- 脉冲波形的产生和整形电路（6学时）: 施密特触发电路；555 定时器的工作原理与应用
+- 加法器（2学时）: 组合逻辑加法器的分析与设计方法
+- 存储器（2学时）: 存储器的结构与功能；存储器的拓展；存储器实现组合逻辑函数
+"""
+author = { name = "", link = "", date = "" }
+
+[[related_links]]
+content = "电路IA: https://hoa.moe/docs/fresh-spring/ee1011a/"
+author = { name = "", link = "", date = "" }
+
+[[related_links]]
+content = "电路IB: https://hoa.moe/docs/sophomore-autumn/ee1011b/"
+author = { name = "", link = "", date = "" }
+
+[[related_links]]
+content = "模拟电子技术基础: https://hoa.moe/docs/sophomore-spring/ee1007/"
+author = { name = "", link = "", date = "" }
+
+[[related_links]]
+content = "数字电子技术基础: https://hoa.moe/docs/sophomore-spring/ee1009/"
+author = { name = "", link = "", date = "" }
+
+misc = []
