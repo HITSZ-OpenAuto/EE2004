@@ -1,35 +1,38 @@
-# 高等电路与电子分析
+# （必修）高等电路与电子分析
 
-**课程代码:** EE2004
+![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE（23级）-red)
+![考查课](https://img.shields.io/badge/考查课（24级）-green)
+![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
 
-## 考试
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![作业20%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-20%25-wheat)
+![期末考试80%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-80%25-wheat)
 
-2024 年秋季学期的期末考试题型为 8 题填空 + 8 题计算，其中填空题和计算题均为 4 题电路 + 2 题模电 + 2题数电。和电路与电子学一样，电路部分计算量较大，模电和数电部分基本是课后题改编和概念性问答。
+2024 年秋季学期自动化与电气工程集群开设的缝合课程。该课程补充讲授了《电路与电子学》课程未讲授的部分内容。该课程没有实验。
 
-> 文 / [Gaster]([https://github.com/WDGaster703](https://github.com/WDGaster703)), 2025.1
+2025 秋，该课程与[《理论力学II》](https://hoa.moe/docs/sophomore-autumn/emec1002/)二选一。
 
-## 课程安排
+要查找资料及查看学习建议，可以前往以下链接：
 
-2024 年秋季学期总学时 64 学时：
-- 电路：32 学时
-- 模电：16 学时
-- 数电：16 学时
+[电路IA](https://hoa.moe/docs/fresh-spring/ee1011a/)
 
-## 其他信息
+[电路IB](https://hoa.moe/docs/sophomore-autumn/ee1011b/)
 
-### 授课教师安排 (2024秋)
+[模拟电子技术基础](https://hoa.moe/docs/sophomore-spring/ee1007/)
 
-| 授课班级 | 电路部分 | 模电部分 | 数电部分 |
-| :--- | :--- | :--- | :--- |
-| 1-3班 | 王灿、赵飞 | 潘学伟 | 喻锦程 |
-| 4-5班 | 王毅 | 谷雨 | 梁亮 |
-| 6-8班 | 孙丽、赵飞 | 王立欣 | 王立欣 |
-| 9-10班 | 王毅 | 谷雨 | 梁亮 |
+[数字电子技术基础](https://hoa.moe/docs/sophomore-spring/ee1009/)
 
-> 文 / [Gaster]([https://github.com/WDGaster703](https://github.com/WDGaster703)), 2025.1
+## 学时安排
 
-### 教学大纲 - 电路部分
+2024 年秋季学期学时安排
 
+![总学时](https://img.shields.io/badge/总学时-64-gold)
+![电路32](https://img.shields.io/badge/电路-32-wheat)
+![模电16](https://img.shields.io/badge/模电-16-wheat)
+![数电16](https://img.shields.io/badge/数电-16-wheat)
+
+{{% details title="电路部分" closed="true" %}}
+<!--标题-->
 <table border="1" cellspacing="10">
 <tr>
   <th align="center">章节</th>
@@ -100,11 +103,10 @@
       4.掌握均匀传输线中的行波，无损线的分析计算。</td>
 </tr>
 </table>
+{{% /details %}}
 
-> 文 / [Gaster]([https://github.com/WDGaster703](https://github.com/WDGaster703)), 2025.1
-
-### 教学大纲 - 模电部分
-
+{{% details title="模电部分" closed="true" %}}
+<!--标题-->
 <table border="1" cellspacing="10">
 <tr>
   <th align="center">章节</th>
@@ -147,11 +149,9 @@
       6. 熟练掌握三端集成稳压器的类型和典型应用电路。</td>
 </tr>
 </table>
-
-> 文 / [Gaster]([https://github.com/WDGaster703](https://github.com/WDGaster703)), 2025.1
-
-### 教学大纲 - 数电部分
-
+{{% /details %}}
+{{% details title="数电部分" closed="true" %}}
+<!--标题-->
 <table border="1" cellspacing="10">
 <tr>
   <th align="center">章节</th>
@@ -210,5 +210,50 @@
       4.掌握利用存储器实现组合逻辑函数的方法。</td>
 </tr>  
 </table>
+{{% /details %}}
 
-> 文 / [Gaster]([https://github.com/WDGaster703](https://github.com/WDGaster703)), 2025.1
+## 授课教师
+
+{{% details title="2024 年秋季学期自动化与电气工程集群的授课老师" closed="true" %}}
+<!--标题-->
+<table border="1" cellspacing="10">
+<tr>
+  <th align="center">授课班级</th>
+  <th align="center">电路部分</th>
+  <th align="center">模电部分</th>
+  <th align="center">数电部分</th>
+</tr>
+<tr>
+  <td>1-3班</td>
+  <td>王灿、赵飞</td>
+  <td>潘学伟</td>
+  <td>喻锦程</td>
+</tr>
+<tr>
+  <td>4-5班</td>
+  <td>王毅</td>
+  <td>谷雨</td>
+  <td>梁亮</td>
+</tr>
+<tr>
+  <td>6-8班</td>
+  <td>孙丽、赵飞</td>
+  <td>王立欣</td>
+  <td>王立欣</td>
+</tr>
+<tr>
+  <td>9-10班</td>
+  <td>王毅</td>
+  <td>谷雨</td>
+  <td>梁亮</td>
+</tr>
+</table>
+{{% /details %}}
+
+## 关于考试
+
+2024 年秋季学期的期末考试题型为 8 题填空 + 8 题计算，其中填空题和计算题均为 4 题电路 + 2 题模电 + 2题数电。和电路与电子学一样，电路部分计算量较大，模电和数电部分基本是课后题改编和概念性问答。
+
+> 文 / [Gaster](https://github.com/WDGaster703)，2025.1
+
+## 学习建议
