@@ -1,35 +1,37 @@
-# 高等电路与电子分析
+course_name = "高等电路与电子分析"
+repo_type = "normal"
+course_code = "EE2004"
 
-**课程代码:** EE2004
+[[exam]]
+content = """2024 年秋季学期的期末考试题型为 8 题填空 + 8 题计算，其中填空题和计算题均为 4 题电路 + 2 题模电 + 2题数电。和电路与电子学一样，电路部分计算量较大，模电和数电部分基本是课后题改编和概念性问答。
+"""
+author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-01-01" }
 
-## 考试
-
-2024 年秋季学期的期末考试题型为 8 题填空 + 8 题计算，其中填空题和计算题均为 4 题电路 + 2 题模电 + 2题数电。和电路与电子学一样，电路部分计算量较大，模电和数电部分基本是课后题改编和概念性问答。
-
-> 文 / [Gaster]([https://github.com/WDGaster703](https://github.com/WDGaster703)), 2025.1
-
-## 课程安排
-
+# 课程安排
+[[schedule]]
+content = """
 2024 年秋季学期总学时 64 学时：
 - 电路：32 学时
 - 模电：16 学时
 - 数电：16 学时
+"""
 
-## 其他信息
-
-### 授课教师安排 (2024秋)
-
+# 兜底板块
+[[misc]]
+topic = "授课教师安排 (2024秋)"
+content = """
 | 授课班级 | 电路部分 | 模电部分 | 数电部分 |
 | :--- | :--- | :--- | :--- |
 | 1-3班 | 王灿、赵飞 | 潘学伟 | 喻锦程 |
 | 4-5班 | 王毅 | 谷雨 | 梁亮 |
 | 6-8班 | 孙丽、赵飞 | 王立欣 | 王立欣 |
 | 9-10班 | 王毅 | 谷雨 | 梁亮 |
+"""
+author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-01-01" }
 
-> 文 / [Gaster]([https://github.com/WDGaster703](https://github.com/WDGaster703)), 2025.1
-
-### 教学大纲 - 电路部分
-
+[[misc]]
+topic = "教学大纲 - 电路部分"
+content = """
 <table border="1" cellspacing="10">
 <tr>
   <th align="center">章节</th>
@@ -100,11 +102,12 @@
       4.掌握均匀传输线中的行波，无损线的分析计算。</td>
 </tr>
 </table>
+"""
+author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-01-01" }
 
-> 文 / [Gaster]([https://github.com/WDGaster703](https://github.com/WDGaster703)), 2025.1
-
-### 教学大纲 - 模电部分
-
+[[misc]]
+topic = "教学大纲 - 模电部分"
+content = """
 <table border="1" cellspacing="10">
 <tr>
   <th align="center">章节</th>
@@ -147,11 +150,12 @@
       6. 熟练掌握三端集成稳压器的类型和典型应用电路。</td>
 </tr>
 </table>
+"""
+author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-01-01" }
 
-> 文 / [Gaster]([https://github.com/WDGaster703](https://github.com/WDGaster703)), 2025.1
-
-### 教学大纲 - 数电部分
-
+[[misc]]
+topic = "教学大纲 - 数电部分"
+content = """
 <table border="1" cellspacing="10">
 <tr>
   <th align="center">章节</th>
@@ -210,5 +214,5 @@
       4.掌握利用存储器实现组合逻辑函数的方法。</td>
 </tr>  
 </table>
-
-> 文 / [Gaster]([https://github.com/WDGaster703](https://github.com/WDGaster703)), 2025.1
+"""
+author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-01-01" }
