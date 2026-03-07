@@ -1,4 +1,6 @@
 # EE2004 - 高等电路与电子分析
+<!-- TOML-META: repo_type="normal" -->
+<!-- TOML-BADGES: source="grades_summary" -->
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
@@ -31,6 +33,9 @@
 - 王立欣
 
 ## 课程内容
+<!-- TOML-SECTION: title="课程内容" -->
+
+<!-- TOML-ITEM: id="item-课程内容-1" -->
 
 教学大纲 - 电路部分
 
@@ -47,6 +52,8 @@
 
 > 文 / [Gaster](https://github.com/WDGaster703)，2025-01
 
+<!-- TOML-ITEM: id="item-课程内容-2" -->
+
 教学大纲 - 模电部分
 
 | 章节 | 授课内容 | 学时安排 | 课程要求 |
@@ -56,6 +63,8 @@
 | 直流电源（4学时） | 直流电源的组成；整流电路；<br>滤波电路；串联型稳压电路 | 4 | 1. 熟练掌握直流稳压电源的组成；<br>2. 熟练掌握单相半波、全波整流电路的结构、原理和性能指标；<br>3. 熟练掌握电容滤波电路的结构、原理和性能指标；<br>4. 正确理解电感滤波电路的结构、原理；<br>5. 熟练掌握串联型稳压电路的结构和工作原理；<br>6. 熟练掌握三端集成稳压器的类型和典型应用电路。 |
 
 > 文 / [Gaster](https://github.com/WDGaster703)，2025-01
+
+<!-- TOML-ITEM: id="item-课程内容-3" -->
 
 教学大纲 - 数电部分
 
@@ -72,12 +81,18 @@
 > 文 / [Gaster](https://github.com/WDGaster703)，2025-01
 
 ## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
+
+<!-- TOML-ITEM: id="item-关于考试-1" -->
 
 2024 年秋季学期的期末考试题型为 8 题填空 + 8 题计算，其中填空题和计算题均为 4 题电路 + 2 题模电 + 2题数电。和电路与电子学一样，电路部分计算量较大，模电和数电部分基本是课后题改编和概念性问答。
 
 > 文 / [Gaster](https://github.com/WDGaster703)，2025-01
 
 ## 课程安排
+<!-- TOML-SECTION: title="课程安排" -->
+
+<!-- TOML-ITEM: id="item-课程安排-1" -->
 
 2024 年秋季学期总学时 64 学时：
 
