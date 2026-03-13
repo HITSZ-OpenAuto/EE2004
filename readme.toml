@@ -1,7 +1,6 @@
 course_name = "高等电路与电子分析"
-repo_type = "normal"
 course_code = "EE2004"
-
+repo_type = "normal"
 description = """
 2024 年秋季学期自动化与电气工程集群开设的缝合课程。该课程补充讲授了《电路与电子学》课程未讲授的部分内容。该课程没有实验。
 
@@ -18,33 +17,34 @@ description = """
 [数字电子技术基础](https://hoa.moe/docs/sophomore-spring/ee1009/)
 """
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "王灿"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "赵飞"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "潘学伟"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "喻锦程"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "王毅"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "谷雨"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "梁亮"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "孙丽"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "王立欣"
-
 
 [[sections]]
 title = "课程内容"
@@ -94,14 +94,12 @@ content = """
 """
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-01" }
 
-
 [[sections]]
 title = "关于考试"
 
 [[sections.items]]
 content = "2024 年秋季学期的期末考试题型为 8 题填空 + 8 题计算，其中填空题和计算题均为 4 题电路 + 2 题模电 + 2题数电。和电路与电子学一样，电路部分计算量较大，模电和数电部分基本是课后题改编和概念性问答。"
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-01" }
-
 
 [[sections]]
 title = "课程安排"

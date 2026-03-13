@@ -22,6 +22,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 王灿
 - 赵飞
 - 潘学伟
