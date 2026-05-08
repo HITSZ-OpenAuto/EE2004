@@ -223,4 +223,3 @@ title = "关于考试"
 [[sections.items]]
 content = "2024 年秋季学期的期末考试题型为 8 题填空 + 8 题计算，其中填空题和计算题均为 4 题电路 + 2 题模电 + 2题数电。和电路与电子学一样，电路部分计算量较大，模电和数电部分基本是课后题改编和概念性问答。"
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-01" }
-
