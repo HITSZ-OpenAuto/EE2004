@@ -17,7 +17,8 @@ description = """
 [数字电子技术基础](https://hoa.moe/docs/sophomore-spring/ee1009/)
 """
 
-[[lecturers]]
+[lecturers]
+[[lecturers.items]]
 name = "孙丽"
 
 [[lecturers.items.reviews]]
@@ -27,7 +28,7 @@ content = """
 老师会提前将 PPT 发在群里，上课语速较快，需要课后进行整理。
 """
 
-[[lecturers]]
+[[lecturers.items]]
 name = "王灿"
 
 [[lecturers.items.reviews]]
@@ -43,7 +44,7 @@ author = [
   { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2023-11" },
 ]
 
-[[lecturers]]
+[[lecturers.items]]
 name = "王毅"
 
 [[lecturers.items.reviews]]
@@ -69,7 +70,7 @@ content = """
 """
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2024-12" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "谷雨"
 
 [[lecturers.items.reviews]]
@@ -91,7 +92,7 @@ content = """
 """
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2024-12" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "潘学伟"
 
 [[lecturers.items.reviews]]
@@ -100,7 +101,7 @@ content = """
 
 """
 
-[[lecturers]]
+[[lecturers.items]]
 name = "王立欣"
 
 [[lecturers.items.reviews]]
@@ -114,7 +115,7 @@ content = """
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2024-12" }
 
 
-[[lecturers]]
+[[lecturers.items]]
 name = "梁亮"
 
 [[lecturers.items.reviews]]
@@ -133,7 +134,7 @@ content = """
 """
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2024-12" }
 
-[[lecturers]]
+[[lecturers.items]]
 name = "喻锦程"
 
 [[lecturers.items.reviews]]
