@@ -131,7 +131,9 @@ title = "课程内容"
 
 [[sections.items]]
 content = """
-{{% details title="电路部分（32 学时）" closed="true" %}}
+<details>
+<summary>电路部分（32 学时）</summary>
+
 - 三相交流电路（6 学时）
   - 三相电路的星形和三角形联结
   - 对称三相电路计算和不对称三相电路计算
@@ -156,9 +158,12 @@ content = """
   - 均匀传输线正弦稳态解
   - 无损耗线和驻波
   - 波的发出和反射，无损耗线行波分析  
-{{% /details %}}
 
-{{% details title="模电部分（16 学时）" closed="true" %}}
+</details>
+
+<details>
+<summary>模电部分（16 学时）</summary>
+
 - 运算放大器的基本应用电路（6 学时）
   - 共射基本放大电路的组成及工作原理
   - 基本放大电路的分析方法
@@ -177,9 +182,12 @@ content = """
   - 滤波电路的结构、原理和性能指标
   - 串联型稳压电路的结构和工作原理
   - 三端集成稳压器的类型和典型应用电路
-{{% /details %}}
 
-{{% details title="数电部分（16 学时）" closed="true" %}}
+</details>
+
+<details>
+<summary>数电部分（16 学时）</summary>
+
 - 门电路（6 学时）
   - 二极管门电路
   - CMOS 门电路
@@ -195,7 +203,7 @@ content = """
   - 存储器的位拓展方式和字拓展方式
   - 利用存储器实现组合逻辑函数的方法
 
-{{% /details %}}
+</details>
 """
 
 [[sections]]
