@@ -1,0 +1,57 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814432,
+    "hash": "b627b78dc7a5de1e85efaabf8a2e97e41c97bfee"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1734619454,
+    "hash": "fe58d4fa0101f018147f505f73b0a5f9622d905d"
+  },
+  "README.md": {
+    "size": 8368,
+    "time": 1791961391,
+    "hash": "c7c306ec53ca7f1d0431f8afe6996c31f8eaddf8"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737898586,
+    "hash": "da6474d7940ff4f957633399693a2ae01cf4c4c0"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737898586,
+    "hash": "da6474d7940ff4f957633399693a2ae01cf4c4c0"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737898586,
+    "hash": "da6474d7940ff4f957633399693a2ae01cf4c4c0"
+  },
+  "notes/2024_高等电路电子学个人笔记_zhuqi_000.pdf": {
+    "size": 16626123,
+    "time": 1741053976,
+    "hash": "9bfb06712610fed50d9a23778dfc9e4bfff4af55"
+  },
+  "notes/2024秋高等电路与电子分析知识整理_Gaster.pdf": {
+    "size": 7058933,
+    "time": 1737898586,
+    "hash": "da6474d7940ff4f957633399693a2ae01cf4c4c0"
+  },
+  "notes/2025_高电笔记（知识点+作业分析）_youyun.pdf": {
+    "size": 25665083,
+    "time": 1768924191,
+    "hash": "a92ce3dd2982b29c40464b90eb8b5bff6d24c5b4"
+  },
+  "readme.toml": {
+    "size": 8694,
+    "time": 1785345804,
+    "hash": "2909f0a67402e8f054db3e00d5bf6c16938d8876"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1737898586,
+    "hash": "da6474d7940ff4f957633399693a2ae01cf4c4c0"
+  }
+}
