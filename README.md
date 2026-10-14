@@ -1,10 +1,5 @@
 # EE2004 - 高等电路与电子分析
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业20%](https://img.shields.io/badge/作业-20%25-wheat)
-![期末考试80%](https://img.shields.io/badge/期末考试-80%25-wheat)
 
 2024 年秋季学期自动化与电气工程集群开设的缝合课程。该课程补充讲授了《电路与电子学》课程未讲授的部分内容。该课程没有实验。
 
